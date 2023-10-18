@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhahnuraina
-- 👀 I’m interested in Data Analytics in Neural Network
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Analytics in Neural Network
+- 👀 I’m interested in Data Analytics in Articial Neural Network
+- 🌱 I’m currently learning AI, Machine Learning
+- 💞️ I’m looking to gain experience as Junior Data Analyst
 - 📫 How to reach me https://www.linkedin.com/in/farhah-nuraina-ghazali-3347651b3/
 
 <!---
