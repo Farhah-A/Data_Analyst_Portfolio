@@ -4,7 +4,7 @@
 - 💞️ I’m looking to gain experience as Junior Data Analyst
 - 📫 How to reach me https://www.linkedin.com/in/farhah-nuraina-ghazali-3347651b3/
 
-- My Portfolio Projects[Web Scraping]
+- My Portfolio Projects  [Web Scraping](https://github.com/farhahnuraina/Data_Analyst_Portfolio/blob/main/WebScrapingCode.ipynb)
 
 <!---
 farhahnuraina/farhahnuraina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
